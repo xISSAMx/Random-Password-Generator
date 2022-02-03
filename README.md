@@ -5,6 +5,7 @@
 * Open Source
 # Clone with HTTPS
 <pre><code> git clone https://github.com/xISSAMx/Random-Password-Generator/ </pre></code>
+<pre><code> cd Random-Password-Generator </pre></code>
 # Run 
 <pre><code>python3 rendompassword.py</pre></code>
 
