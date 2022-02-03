@@ -4,7 +4,7 @@
 * Random password generation.
 * Open Source
 # Clone with HTTPS
-git clone https://github.com/xISSAMx/Random-Password-Generator/
+<pre><code> git clone https://github.com/xISSAMx/Random-Password-Generator/ </pre></code>
 # Run 
-python3 rendompassword.py
+<pre><code>python3 rendompassword.py</pre></code>
 
